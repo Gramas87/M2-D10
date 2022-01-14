@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(217, 217, 217);
+}
+.nav-icon2{
+    max-width: 180px;
+}
+
+hr{
+    border-top: 1px solid rgb(84, 85, 87);
+}
+.img1 img{
+    height: 128px;
+}
+.img2 img{
+    height: 128px;
+}
+
+.carousel2 img{
+    width:347px;
+    height:128px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+   color: violet;
+   z-index: 10;
+    }
+#wolf{
+    max-width: 100%;
+    max-height: 100%;
+ }
+.img3 img{
+   width: 156px
+}
+.icon1{
+    position: absolute;
+    bottom: 20px;
+}
+#bigImg{
+    
+}
