@@ -1,9 +1,7 @@
 body{
     background-color: rgba(217, 217, 217);
 }
-.nav-icon2{
-    max-width: 180px;
-}
+
 
 hr{
     border-top: 1px solid rgb(84, 85, 87);
@@ -36,4 +34,7 @@ hr{
 }
 #bigImg{
     
+}
+.carousel3 img:not(:first-of-type){
+    width: 150px;
 }
