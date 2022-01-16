@@ -9,7 +9,7 @@ hr{
 .img1 img{
     height: 128px;
 }
-.img2 img{
+.img2 .img2{
     height: 128px;
 }
 
@@ -21,9 +21,10 @@ hr{
    color: violet;
    z-index: 10;
     }
-#wolf{
-    max-width: 100%;
-    max-height: 100%;
+.img2 .img1{
+   width: 280px;
+   height: 100%;
+   
  }
 .img3 img{
    width: 156px
